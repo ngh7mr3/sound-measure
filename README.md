@@ -16,12 +16,12 @@ PyQt5, numpy, matplotlib, pydub, sounddevice, soundfile
 
 ## Screenshots
 #### Main window
-![Main window](https://i.imgur.com/vanziKr.png)
+![Main window](https://i.imgur.com/af1hS1S.jpg)
 #### Config interface
 ![Config window](https://i.imgur.com/i6zxVTd.jpg)
 #### Mesurements progress window
 ![Mesurements progress window](https://i.imgur.com/gR7VIKS.jpg)
-#### Real time graphing
+#### Real-time graphing
 ![Real time graphing](https://i.imgur.com/eOs2BDk.jpg)
 
 ## Other
