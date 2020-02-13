@@ -3,16 +3,16 @@ PyQt based app which can record and process measurements with sound card
 
 ## Requirements
 Python 3.4+
-PyQt5, numpy, pydub, sounddevice, soundfile
+PyQt5, numpy, matplotlib, pydub, sounddevice, soundfile
 
 ## Features
-- Modes: single/periodic -- used for calibrating sensors/
+- Modes: single/periodic - used for calibrating sensors/live measuring
 - Record mono/stereo sound at 44.1/48 kHz
 - Up to 2 measurable frequencies
-- Real-time graph with processed data
+- External real-time processed data graphing (used with precompiled plotter_v2)
 - Separate interface for sensors config management
 - Possible deffered measurements
-- Raw output: save captured data in txt/wav format to inpect it manually
+- Raw output: save captured data in txt/wav format to inspect it manually
 
 ## Screenshots
 #### Main window
