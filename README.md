@@ -15,13 +15,13 @@ PyQt5, numpy, pydub, sounddevice, soundfile
 - Raw output: save captured data in txt/wav format to inpect it manually
 
 ## Screenshots
-####Main window
+#### Main window
 ![Main window](https://i.imgur.com/vanziKr.png)
-####Config interface
+#### Config interface
 ![Config window](https://i.imgur.com/i6zxVTd.jpg)
-####Mesurements progress window
+#### Mesurements progress window
 ![Mesurements progress window](https://i.imgur.com/gR7VIKS.jpg)
-####Real time graphing
+#### Real time graphing
 ![Real time graphing](https://i.imgur.com/eOs2BDk.jpg)
 
 ## Other
